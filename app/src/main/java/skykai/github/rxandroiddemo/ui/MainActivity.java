@@ -1,4 +1,4 @@
-package skykai.github.rxandroiddemo;
+package skykai.github.rxandroiddemo.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -7,6 +7,7 @@ import android.util.Log;
 import rx.Observable;
 import rx.Observer;
 import rx.Subscriber;
+import skykai.github.rxandroiddemo.R;
 
 public class MainActivity extends AppCompatActivity {
 
