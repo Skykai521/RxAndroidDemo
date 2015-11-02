@@ -1,4 +1,4 @@
-package skykai.github.rxandroiddemo;
+package skykai.github.rxandroiddemo.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -11,6 +11,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 import rx.functions.Func1;
 import rx.schedulers.Schedulers;
+import skykai.github.rxandroiddemo.R;
 
 public class MainActivity extends AppCompatActivity {
 
